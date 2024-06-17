@@ -8,5 +8,5 @@
 - 💞️ I’m looking to collaborate on Groups working in the fields of data science, machine learning, and deep learning should collaborate.
 - 📫 How to reach me message my email:
 - mahmmooudian@gmail.com
-- amir.mohammad1380@yhoo.com
+
 
