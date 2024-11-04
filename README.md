@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @mahmmooudian
-- 👀 I'm glad you read this, I'm a computer science student, interested in things like:
-- Data Mining
-- Data Analysis
-- Machine Learning
-- .....
-- 🌱 I’m currently learning a python , c# and matlab, 
-- 💞️ I’m looking to collaborate on Groups working in the fields of data science, machine learning, and deep learning should collaborate.
-- 📫 How to reach me message my email:
-- mahmmooudian@gmail.com
+About Me
+I am Amir Mohammad Mahmoudian, a computer science student with proficiency in Python and C#, along with some experience in Pascal. I have a strong interest in machine learning and artificial intelligence, especially in their industrial applications, and I have internship and work experience in these areas. Recently, I also started learning computer networking, aiming to expand my knowledge and skills.
+Skills
+- **Programming Languages**: Python, C#, Pascal
+- **Core Expertise**: Machine learning, artificial intelligence, and industrial applications
+- **New Interest**: Computer networking
 
-
+- Email: mahmmooudian@gmail.com
