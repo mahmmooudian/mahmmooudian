@@ -12,5 +12,5 @@ Contributing to open-source projects and learning new technologies
 Coming soon! Stay tuned for exciting AI and ML projects.
 (Check back later for updates on my repositories!)
 📫 Get in Touch
-LinkedIn: [Your LinkedIn URL]
-Email: [your.email@example.com]
+LinkedIn: www.linkedin.com/in/amirmohmmadmahmoudian
+Email: mahmmooudian@gmail.com
