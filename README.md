@@ -1,203 +1,152 @@
-# 👋 Hi, I'm Amir Mohammad Mahmoudian
+# Hi, I'm Amir Mohammad Mahmoudian 👋
 
-### AI/ML Developer | Computer Science | Computer Vision | Industrial AI
+### AI/ML Engineer | Deep Learning · Computer Vision · Industrial AI · MLOps
 
-I build **AI-driven systems for real-world engineering, industrial, and intelligent infrastructure challenges**.
+I build **AI and machine learning systems for real-world engineering and data-driven applications**, with a focus on deep learning, computer vision, intelligent infrastructure, model evaluation, and applied AI research.
 
-My work focuses on **Machine Learning, Deep Learning, Computer Vision, and AI-powered analytics**, with experience developing intelligent systems from data preprocessing and model design to evaluation, explainability, and deployment workflows.
-
-I am particularly interested in building practical AI solutions that connect **research, engineering, and real-world applications**.
+My work spans the full ML workflow — from **data preprocessing and model development to evaluation, explainability, optimization, and deployment-oriented workflows**.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 Computer Science student at Ferdowsi University of Mashhad
-* 🤖 Focused on Artificial Intelligence and Machine Learning
-* 🧠 Developing Deep Learning and Computer Vision systems
-* ⚙️ Building AI solutions for industrial and engineering applications
-* 📊 Experienced in predictive modeling and intelligent data analytics
-* 🔄 Exploring MLOps and production-ready AI workflows
-* 🔬 Interested in AI research and advanced intelligent systems
-
----
-
-## 🧠 Areas of Expertise
-
-`Artificial Intelligence` · `Machine Learning` · `Deep Learning`
-
-`Computer Vision` · `CNN` · `LSTM` · `Pose Estimation`
-
-`Explainable AI` · `Grad-CAM` · `Predictive Modeling`
-
-`Data Analytics` · `Feature Engineering` · `Anomaly Detection`
-
-`Industrial AI` · `Infrastructure Optimization` · `MLOps`
+* 🎓 Computer Science graduate
+* 🤖 Focused on **Artificial Intelligence & Machine Learning**
+* 🧠 Working with **Deep Learning and Computer Vision**
+* 🔬 Interested in **Applied AI Research & Explainable AI**
+* ⚙️ Building AI solutions for **engineering and industrial systems**
+* 📊 Experienced in **predictive modeling, analytics, and optimization**
+* 🔄 Expanding my work in **MLOps, LLM Evaluation, and AI Observability**
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-### Programming
+**Languages**
 
-Python · C# · SQL
+`Python` · `SQL` · `C#`
 
-### AI & Machine Learning
+**Machine Learning & Deep Learning**
 
-PyTorch · Scikit-learn · XGBoost · Machine Learning · Deep Learning
+`PyTorch` · `Scikit-learn` · `XGBoost` · `CNN` · `LSTM`
 
-### Computer Vision
+**Computer Vision & Explainable AI**
 
-OpenCV · MediaPipe · CNN · Pose Estimation · Grad-CAM
+`OpenCV` · `MediaPipe` · `Grad-CAM` · `Pose Estimation`
 
-### Data & Analytics
+**Data & Visualization**
 
-Pandas · NumPy · Matplotlib · Plotly · Data Preprocessing · Feature Engineering
+`Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Power BI`
 
-### Development & MLOps
+**Engineering & MLOps**
 
-Git · GitHub · Jupyter Notebook · Google Colab · DevOps · MLOps Workflows
-
----
-
-# 🔬 Featured AI Projects
-
-## 💧 AI-Powered Water Network Analyzer
-
-**Machine Learning · Industrial AI · Predictive Analytics · Infrastructure Optimization**
-
-An AI-driven analytical platform designed for intelligent monitoring and optimization of water distribution networks.
-
-The system applies machine learning and data analytics to predict water flow behavior, identify infrastructure inefficiencies, and detect anomalies associated with potential leaks or operational faults.
-
-**Key Areas**
-
-* Predictive modeling for water distribution systems
-* Anomaly and inefficiency detection
-* Water flow behavior analysis
-* Pressure management and PRV analysis
-* Industrial infrastructure data processing
-* AI-driven decision support
+`Git` · `GitHub` · `Jupyter` · `Google Colab` · `Model Evaluation` · `ML Workflows`
 
 ---
 
-## 👁️ Real-Time Human Activity Recognition
+# 🚀 Featured Projects
 
-**Computer Vision · Deep Learning · LSTM · Real-Time AI**
+## 🩻 Med-AGCNet
 
-A real-time intelligent activity recognition system developed using computer vision, pose estimation, and deep learning.
+**Deep Learning · Medical Imaging · PyTorch · Explainable AI**
 
-The platform extracts skeletal landmarks from live video streams and applies sequential deep learning models to recognize human activities and motion patterns.
+A research-oriented deep learning architecture for medical image classification using **Adaptive Global Context learning**.
 
-**Recognized Activities**
+The project combines convolutional feature extraction, multi-scale contextual modeling, adaptive feature fusion, and explainability techniques for medical image analysis.
 
-Walking · Running · Standing · Sitting
+**Highlights**
 
-**Key Technologies**
-
-Python · OpenCV · MediaPipe · LSTM · Deep Learning · Computer Vision
-
----
-
-## 🩻 Medical AI & Explainable Deep Learning
-
-**PyTorch · CNN · Medical Imaging · Explainable AI · Grad-CAM**
-
-A deep learning-based medical image analysis platform designed for intelligent image classification and model explainability.
-
-The project explores advanced CNN architectures, adaptive feature processing, and explainable AI techniques to analyze model decisions in medical imaging applications.
-
-**Key Areas**
-
+* Custom deep learning architecture
+* Adaptive Global Context Block
 * Medical image classification
-* CNN-based feature extraction
-* Adaptive deep learning architectures
-* Attention mechanisms
-* Grad-CAM visualization
-* Explainable Artificial Intelligence
+* Grad-CAM explainability
+* Ablation and model evaluation workflow
+* PyTorch implementation
+
+🔗 [View Repository](https://github.com/mahmmooudian/Med-AGCNet)
 
 ---
 
-## 🎙️ AI-Powered Persian Audio Report System
+## 💧 Water Network AI Analyzer
 
-**Speech AI · Speech-to-Text · NLP · Intelligent Automation**
+**Industrial AI · Machine Learning · XGBoost · Optimization**
 
-An intelligent speech processing platform developed for Persian audio transcription and automated report generation.
+An AI-powered analytical platform for studying water distribution networks using machine learning, predictive analytics, and optimization techniques.
 
-The system processes recorded audio, generates editable Persian transcriptions, and supports intelligent bilingual report generation.
+**Highlights**
 
-**Key Features**
+* Water network data processing
+* Pressure and demand analysis
+* Predictive modeling
+* PRV analysis and optimization
+* XGBoost-based modeling
+* Particle Swarm Optimization
+* Interactive visualization
 
-* Persian speech recognition
-* Offline speech processing
-* Smart report generation
-* Persian and English report support
-* Audio session management
-* Intelligent transcription workflows
-
----
-
-## 🔬 Research & Development
-
-My current work explores advanced AI systems in areas including:
-
-* Intelligent infrastructure systems
-* AI for industrial optimization
-* Advanced computer vision
-* Explainable deep learning
-* Human-centered AI
-* AI for aviation safety
-* AI-driven cybersecurity systems
-* Foundation models for complex engineering environments
-
-I am particularly interested in developing AI systems that move beyond experimental models and can evolve into **practical, scalable, and production-ready intelligent platforms**.
+🔗 [View Repository](https://github.com/mahmmooudian/water-network-ai-analyzer)
 
 ---
 
-## 📈 Current Focus
+## 📊 AI Model Performance Dashboard
 
-🔹 Advanced Machine Learning Systems
+**Power BI · MLOps Analytics · Model Monitoring · Data Visualization**
 
-🔹 Deep Learning Architecture Design
+An interactive Power BI dashboard designed to analyze and visualize machine learning model performance and operational metrics.
 
-🔹 Computer Vision Research
+**Highlights**
 
-🔹 Industrial AI Applications
+* Accuracy, Precision, Recall, and F1 monitoring
+* Confusion matrix analysis
+* Model drift indicators
+* Operational alert analysis
+* Model comparison
+* Executive-level KPI reporting
 
-🔹 Explainable Artificial Intelligence
-
-🔹 MLOps & AI Model Lifecycle Management
-
-🔹 AI for Cybersecurity and Intelligent Networks
+🔗 [View Repository](https://github.com/mahmmooudian/ai-model-performance-dashboard)
 
 ---
 
-## 🤝 Open to Collaboration
+## 🔬 Current Interests
 
-I'm interested in:
+I'm currently expanding my work in:
 
-* AI/ML engineering opportunities
-* Artificial Intelligence research
+* LLM Evaluation & Observability
+* AI Model Monitoring
+* Computer Vision
+* Explainable AI
+* Industrial AI
+* Intelligent Infrastructure
+* MLOps & ML Systems
+* AI for Cybersecurity
+
+---
+
+## 🎯 What I Care About
+
+I am particularly interested in building AI systems that go beyond isolated experiments and move toward:
+
+**Reliable Models → Explainable Decisions → Reproducible Pipelines → Real-World AI Systems**
+
+---
+
+## 🤝 Open to
+
+* AI/ML Engineering opportunities
+* Applied AI research
+* Machine Learning projects
 * Computer Vision projects
 * Industrial AI applications
-* Open-source collaborations
-* Innovative technology projects
-
-If you're working on an interesting AI project or intelligent system, feel free to connect with me.
+* Open-source collaboration
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn:** Amir Mohammad Mahmoudian
-
-**Email:** [mahmmooudian@gmail.com](mailto:mahmmooudian@gmail.com)
-
-**GitHub:** Explore my repositories and AI projects
+[LinkedIn](https://www.linkedin.com/in/amirmohmmadmahmoudian/) ·
+[Portfolio](https://sites.google.com/view/mahmoudian) ·
+[Hugging Face](https://huggingface.co/Mahmmooudian) ·
+[GitHub](https://github.com/mahmmooudian)
 
 ---
 
-### 🚀 Building intelligent systems for real-world problems.
-
-⭐ Feel free to explore my repositories and follow my work in Artificial Intelligence and Machine Learning.
-
+### Building intelligent systems for real-world problems.
