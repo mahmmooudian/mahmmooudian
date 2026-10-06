@@ -1,152 +1,262 @@
 # Hi, I'm Amir Mohammad Mahmoudian 👋
 
-### AI/ML Engineer | Deep Learning · Computer Vision · Industrial AI · MLOps
+### AI Engineer & Developer
 
-I build **AI and machine learning systems for real-world engineering and data-driven applications**, with a focus on deep learning, computer vision, intelligent infrastructure, model evaluation, and applied AI research.
+I design and build **AI-powered systems and intelligent applications**, with a focus on deep learning, computer vision, machine learning, and modern AI engineering.
 
-My work spans the full ML workflow — from **data preprocessing and model development to evaluation, explainability, optimization, and deployment-oriented workflows**.
+My goal is to turn AI ideas into **reliable, well-engineered, and deployable systems** — from data preparation and model development to evaluation, optimization, APIs, automation, monitoring, and real-world integration.
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Computer Science graduate
-* 🤖 Focused on **Artificial Intelligence & Machine Learning**
-* 🧠 Working with **Deep Learning and Computer Vision**
-* 🔬 Interested in **Applied AI Research & Explainable AI**
-* ⚙️ Building AI solutions for **engineering and industrial systems**
-* 📊 Experienced in **predictive modeling, analytics, and optimization**
-* 🔄 Expanding my work in **MLOps, LLM Evaluation, and AI Observability**
+**Applied AI Systems · Deep Learning · Computer Vision · AI Agents · ML Engineering**
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-**Languages**
+I am an AI developer focused on building practical systems that combine **machine learning, software engineering, and real-world problem solving**.
 
-`Python` · `SQL` · `C#`
+My work spans research-oriented deep learning, industrial AI applications, intelligent analytics, model evaluation, explainability, and AI system development.
 
-**Machine Learning & Deep Learning**
-
-`PyTorch` · `Scikit-learn` · `XGBoost` · `CNN` · `LSTM`
-
-**Computer Vision & Explainable AI**
-
-`OpenCV` · `MediaPipe` · `Grad-CAM` · `Pose Estimation`
-
-**Data & Visualization**
-
-`Pandas` · `NumPy` · `Matplotlib` · `Plotly` · `Power BI`
-
-**Engineering & MLOps**
-
-`Git` · `GitHub` · `Jupyter` · `Google Colab` · `Model Evaluation` · `ML Workflows`
+I am particularly interested in engineering AI solutions that are not limited to experiments or notebooks, but can evolve into **structured, maintainable, and production-oriented applications**.
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-## 🩻 Med-AGCNet
+### Med-AGCNet
 
-**Deep Learning · Medical Imaging · PyTorch · Explainable AI**
+**Deep Learning · Medical Imaging · Computer Vision · PyTorch · Explainable AI**
 
-A research-oriented deep learning architecture for medical image classification using **Adaptive Global Context learning**.
+A research-oriented deep learning architecture for medical image classification built around Adaptive Global Context learning.
 
-The project combines convolutional feature extraction, multi-scale contextual modeling, adaptive feature fusion, and explainability techniques for medical image analysis.
+Key areas covered in the project include:
 
-**Highlights**
-
-* Custom deep learning architecture
-* Adaptive Global Context Block
-* Medical image classification
-* Grad-CAM explainability
-* Ablation and model evaluation workflow
-* PyTorch implementation
+- Custom deep learning architecture development
+- Adaptive Global Context mechanisms
+- Medical image classification
+- Model training and evaluation
+- Baseline comparison
+- Ablation studies
+- Grad-CAM explainability
+- Classification threshold optimization
+- Reproducible experimentation
 
 🔗 [View Repository](https://github.com/mahmmooudian/Med-AGCNet)
 
 ---
 
-## 💧 Water Network AI Analyzer
+### Water Network AI Analyzer
 
-**Industrial AI · Machine Learning · XGBoost · Optimization**
+**Industrial AI · Machine Learning · XGBoost · Optimization · Engineering Analytics**
 
-An AI-powered analytical platform for studying water distribution networks using machine learning, predictive analytics, and optimization techniques.
+An AI-powered analytical platform designed for intelligent analysis of water distribution networks.
 
-**Highlights**
+The project combines machine learning, hydraulic analysis, optimization, and visualization to support engineering decision-making.
 
-* Water network data processing
-* Pressure and demand analysis
-* Predictive modeling
-* PRV analysis and optimization
-* XGBoost-based modeling
-* Particle Swarm Optimization
-* Interactive visualization
+Key capabilities include:
+
+- Predictive modeling with XGBoost
+- Water demand and pressure analysis
+- Hydraulic network analysis
+- PRV analysis and optimization
+- Particle Swarm Optimization
+- WNTR / EPANET integration
+- Engineering-oriented data visualization
+- Modular analytical workflows
 
 🔗 [View Repository](https://github.com/mahmmooudian/water-network-ai-analyzer)
 
 ---
 
-## 📊 AI Model Performance Dashboard
+### AI Model Performance Dashboard
 
-**Power BI · MLOps Analytics · Model Monitoring · Data Visualization**
+**ML Monitoring · Model Evaluation · Power BI · AI Analytics**
 
-An interactive Power BI dashboard designed to analyze and visualize machine learning model performance and operational metrics.
+An interactive analytics dashboard designed to monitor machine learning model performance and operational behavior.
 
-**Highlights**
+The project focuses on transforming model metrics into clear, decision-oriented monitoring insights.
 
-* Accuracy, Precision, Recall, and F1 monitoring
-* Confusion matrix analysis
-* Model drift indicators
-* Operational alert analysis
-* Model comparison
-* Executive-level KPI reporting
+Key capabilities include:
+
+- Accuracy, Precision, Recall and F1 monitoring
+- Model comparison
+- Performance trend analysis
+- Data-drift indicators
+- Operational alerts
+- Executive-level AI analytics
+- Model health visualization
 
 🔗 [View Repository](https://github.com/mahmmooudian/ai-model-performance-dashboard)
 
 ---
 
-## 🔬 Current Interests
+## Technical Expertise
 
-I'm currently expanding my work in:
+### AI & Machine Learning
 
-* LLM Evaluation & Observability
-* AI Model Monitoring
-* Computer Vision
-* Explainable AI
-* Industrial AI
-* Intelligent Infrastructure
-* MLOps & ML Systems
-* AI for Cybersecurity
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Classification & Predictive Modeling
+- Model Evaluation
+- Explainable AI
+- Feature Engineering
+- Hyperparameter Optimization
+- Model Performance Analysis
+
+### Deep Learning & Computer Vision
+
+- PyTorch
+- Convolutional Neural Networks
+- LSTM Networks
+- OpenCV
+- MediaPipe
+- Grad-CAM
+- Image Classification
+- Pose Estimation
+- Computer Vision Pipelines
+
+### Machine Learning Stack
+
+- Scikit-learn
+- XGBoost
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+
+### AI Engineering
+
+- Python
+- Modular ML Development
+- Model Inference Workflows
+- Experimentation & Evaluation
+- Reproducible ML Workflows
+- API-oriented AI Architecture
+- AI Application Design
+- Git & GitHub
+
+### Data & Analytics
+
+- SQL
+- Power BI
+- Data Analysis
+- Data Visualization
+- Analytical Dashboards
+- Model Performance Analytics
 
 ---
 
-## 🎯 What I Care About
+## Engineering Philosophy
 
-I am particularly interested in building AI systems that go beyond isolated experiments and move toward:
+I approach AI projects as **engineering systems**, not isolated models.
 
-**Reliable Models → Explainable Decisions → Reproducible Pipelines → Real-World AI Systems**
+A strong AI solution should combine:
 
----
+**Clear problem definition**  
+→ **Reliable data pipeline**  
+→ **Appropriate model architecture**  
+→ **Rigorous evaluation**  
+→ **Explainability and monitoring**  
+→ **Clean software structure**  
+→ **Deployment-oriented design**
 
-## 🤝 Open to
-
-* AI/ML Engineering opportunities
-* Applied AI research
-* Machine Learning projects
-* Computer Vision projects
-* Industrial AI applications
-* Open-source collaboration
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/amirmohmmadmahmoudian/) ·
-[Portfolio](https://sites.google.com/view/mahmoudian) ·
-[Hugging Face](https://huggingface.co/Mahmmooudian) ·
-[GitHub](https://github.com/mahmmooudian)
+I aim to build AI systems that are not only accurate, but also **understandable, maintainable, reproducible, and useful in real-world environments**.
 
 ---
 
-### Building intelligent systems for real-world problems.
+## Areas of Focus
+
+I am actively developing my work around:
+
+- Applied AI Systems
+- AI Application Development
+- Deep Learning
+- Computer Vision
+- Intelligent Infrastructure
+- Industrial AI
+- Explainable AI
+- ML Engineering
+- Model Evaluation & Monitoring
+- AI Automation
+- AI Agents
+- Retrieval-Augmented Generation
+- Production-oriented AI Architecture
+
+---
+
+## What I Build
+
+My projects typically sit at the intersection of:
+
+**Artificial Intelligence**
+
++
+
+**Software Engineering**
+
++
+
+**Data & Analytics**
+
++
+
+**Real-World Engineering Problems**
+
+I am especially interested in projects where AI needs to move beyond experimentation and become part of a usable system, analytical platform, intelligent application, or engineering workflow.
+
+---
+
+## Currently Expanding Toward
+
+My ongoing engineering direction includes:
+
+- AI agents and tool-enabled AI systems
+- Retrieval-Augmented Generation
+- LLM application development
+- FastAPI-based AI services
+- Containerized AI applications
+- Automated testing
+- CI/CD for AI projects
+- Model monitoring and observability
+- Experiment tracking
+- Production ML workflows
+
+The goal is to build complete AI systems covering the path from **model development to deployment and operation**.
+
+---
+
+## Open To
+
+I am interested in:
+
+- AI Engineering opportunities
+- AI Developer roles
+- Applied AI projects
+- Machine Learning Engineering
+- Computer Vision projects
+- AI research collaboration
+- Industrial AI applications
+- Open-source collaboration
+- Intelligent software systems
+
+---
+
+## Connect With Me
+
+**LinkedIn**  
+[linkedin.com/in/amirmohmmadmahmoudian](https://www.linkedin.com/in/amirmohmmadmahmoudian)
+
+**Portfolio**  
+[sites.google.com/view/mahmoudian](https://sites.google.com/view/mahmoudian)
+
+**Hugging Face**  
+[huggingface.co/Mahmmooudian](https://huggingface.co/Mahmmooudian)
+
+**GitHub**  
+[github.com/mahmmooudian](https://github.com/mahmmooudian)
+
+---
+
+### Building intelligent systems from models to real-world applications.
+
+> **AI is most valuable when strong models meet strong engineering.**
