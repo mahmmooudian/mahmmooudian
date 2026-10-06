@@ -20,130 +20,95 @@ I am particularly interested in engineering AI solutions that are not limited to
 
 ---
 
-## Featured Projects
+## Featured Engineering Projects
 
-### Med-AGCNet
+### 💧 Water Network AI Analyzer
+**Industrial AI · Machine Learning · Optimization · Engineering Systems**
 
-**Deep Learning · Medical Imaging · Computer Vision · PyTorch · Explainable AI**
+An applied AI platform for intelligent water-distribution analysis, combining **machine learning, optimization, hydraulic simulation, and engineering analytics** in a unified workflow.
 
-A research-oriented deep learning architecture for medical image classification built around Adaptive Global Context learning.
+**Engineering highlights**
+- Leakage-safe machine-learning pipeline
+- XGBoost single-output and multi-output regression
+- Automated hyperparameter optimization
+- Particle Swarm Optimization for PRV control
+- WNTR / EPANET hydraulic simulation
+- Model persistence and reusable inference workflows
+- Reproducible experiments with fixed random seeds
+- End-to-end smoke testing
+- Interactive desktop application and analytical visualization
 
-Key areas covered in the project include:
+**Stack:** `Python` · `XGBoost` · `Scikit-learn` · `PSO` · `WNTR` · `EPANET` · `Pandas`
 
-- Custom deep learning architecture development
-- Adaptive Global Context mechanisms
-- Medical image classification
-- Model training and evaluation
-- Baseline comparison
+[View Repository →](https://github.com/mahmmooudian/water-network-ai-analyzer)
+
+---
+
+### 🩻 Med-AGCNet
+**Deep Learning · Medical Imaging · Computer Vision · Explainable AI**
+
+A research-oriented deep learning architecture for medical image classification based on **Adaptive Global Context learning**, designed to combine local features, large receptive-field information, and global contextual representations.
+
+**Research highlights**
+- Custom PyTorch deep-learning architecture
+- Adaptive Global Context Block design
+- Multi-branch contextual feature learning
+- Baseline model comparison
 - Ablation studies
 - Grad-CAM explainability
-- Classification threshold optimization
-- Reproducible experimentation
+- Classification-threshold optimization
+- Training, validation, and testing workflow
+- Reproducible experimental pipeline
 
-🔗 [View Repository](https://github.com/mahmmooudian/Med-AGCNet)
+**Stack:** `Python` · `PyTorch` · `Deep Learning` · `Computer Vision` · `Grad-CAM`
 
----
-
-### Water Network AI Analyzer
-
-**Industrial AI · Machine Learning · XGBoost · Optimization · Engineering Analytics**
-
-An AI-powered analytical platform designed for intelligent analysis of water distribution networks.
-
-The project combines machine learning, hydraulic analysis, optimization, and visualization to support engineering decision-making.
-
-Key capabilities include:
-
-- Predictive modeling with XGBoost
-- Water demand and pressure analysis
-- Hydraulic network analysis
-- PRV analysis and optimization
-- Particle Swarm Optimization
-- WNTR / EPANET integration
-- Engineering-oriented data visualization
-- Modular analytical workflows
-
-🔗 [View Repository](https://github.com/mahmmooudian/water-network-ai-analyzer)
+[View Repository →](https://github.com/mahmmooudian/Med-AGCNet)
 
 ---
 
-### AI Model Performance Dashboard
+### 📊 AI Model Performance Dashboard
+**AI Monitoring · Model Evaluation · Power BI · Operational Analytics**
 
-**ML Monitoring · Model Evaluation · Power BI · AI Analytics**
+An interactive analytics solution for monitoring machine-learning model performance and translating model metrics into clear operational insights.
 
-An interactive analytics dashboard designed to monitor machine learning model performance and operational behavior.
-
-The project focuses on transforming model metrics into clear, decision-oriented monitoring insights.
-
-Key capabilities include:
-
-- Accuracy, Precision, Recall and F1 monitoring
-- Model comparison
+**Analytics highlights**
+- Accuracy, Precision, Recall, and F1 monitoring
+- Confusion-matrix analysis
+- Model-to-model comparison
 - Performance trend analysis
 - Data-drift indicators
-- Operational alerts
-- Executive-level AI analytics
-- Model health visualization
+- Operational alert monitoring
+- Executive KPI reporting
+- AI model health visualization
 
-🔗 [View Repository](https://github.com/mahmmooudian/ai-model-performance-dashboard)
+**Stack:** `Power BI` · `DAX` · `Power Query` · `ML Metrics` · `Data Visualization`
+
+[View Repository →](https://github.com/mahmmooudian/ai-model-performance-dashboard)
 
 ---
 
-## Technical Expertise
+## Technical Stack
 
 ### AI & Machine Learning
+`PyTorch` · `Scikit-learn` · `XGBoost` · `Deep Learning` · `Machine Learning` · `Model Evaluation`
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Classification & Predictive Modeling
-- Model Evaluation
-- Explainable AI
-- Feature Engineering
-- Hyperparameter Optimization
-- Model Performance Analysis
+### Computer Vision
+`OpenCV` · `MediaPipe` · `CNNs` · `Grad-CAM` · `Image Classification` · `Pose Estimation`
 
-### Deep Learning & Computer Vision
+### Data & Scientific Computing
+`Pandas` · `NumPy` · `SciPy` · `Matplotlib` · `Plotly`
 
-- PyTorch
-- Convolutional Neural Networks
-- LSTM Networks
-- OpenCV
-- MediaPipe
-- Grad-CAM
-- Image Classification
-- Pose Estimation
-- Computer Vision Pipelines
+### AI / ML Engineering
+`Python` · `Git` · `GitHub` · `Modular ML Development` · `Reproducible Experiments` · `Inference Workflows`
 
-### Machine Learning Stack
-
-- Scikit-learn
-- XGBoost
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
-
-### AI Engineering
-
-- Python
-- Modular ML Development
-- Model Inference Workflows
-- Experimentation & Evaluation
-- Reproducible ML Workflows
-- API-oriented AI Architecture
-- AI Application Design
-- Git & GitHub
+### Optimization & Engineering AI
+`Particle Swarm Optimization` · `WNTR` · `EPANET` · `Industrial AI` · `Predictive Modeling`
 
 ### Data & Analytics
+`SQL` · `Power BI` · `Data Analysis` · `Data Visualization`
 
-- SQL
-- Power BI
-- Data Analysis
-- Data Visualization
-- Analytical Dashboards
-- Model Performance Analytics
-
+### Additional Development
+`C#` · `Jupyter`
 ---
 
 ## Engineering Philosophy
