@@ -1,77 +1,99 @@
-# Hi, I'm Amir Mohammad Mahmoudian 👋
+<div align="center">
+
+# Amir Mohammad Mahmoudian
 
 ### AI Engineer & Developer
 
-I design and build **AI-powered systems and intelligent applications**, with a focus on deep learning, computer vision, machine learning, and modern AI engineering.
+**Applied AI · Deep Learning · Computer Vision · ML Systems**
 
-My goal is to turn AI ideas into **reliable, well-engineered, and deployable systems** — from data preparation and model development to evaluation, optimization, APIs, automation, monitoring, and real-world integration.
+Building intelligent systems from **model development and evaluation to optimization, inference, analytics, and real-world integration**.
 
-**Applied AI Systems · Deep Learning · Computer Vision · AI Agents · ML Engineering**
-
----
-
-## About Me
-
-I am an AI developer focused on building practical systems that combine **machine learning, software engineering, and real-world problem solving**.
-
-My work spans research-oriented deep learning, industrial AI applications, intelligent analytics, model evaluation, explainability, and AI system development.
-
-I am particularly interested in engineering AI solutions that are not limited to experiments or notebooks, but can evolve into **structured, maintainable, and production-oriented applications**.
+</div>
 
 ---
 
-## Featured Engineering Projects
+## About
 
-### 💧 Water Network AI Analyzer
-**Industrial AI · Machine Learning · Optimization · Engineering Systems**
+I am an AI engineer focused on designing and building **practical, reliable, and well-engineered AI systems**.
 
-An applied AI platform for intelligent water-distribution analysis, combining **machine learning, optimization, hydraulic simulation, and engineering analytics** in a unified workflow.
+My work combines **machine learning, deep learning, computer vision, optimization, and software engineering** to solve real-world problems across research and engineering domains.
+
+I care about more than model accuracy. I focus on the complete AI workflow:
+
+**Data → Model Design → Training → Evaluation → Explainability → Optimization → Integration**
+
+My goal is to turn AI ideas and experiments into **structured, reproducible, and usable systems**.
+
+---
+
+## Featured Engineering Work
+
+### Water Network AI Analyzer
+
+**Industrial AI · Machine Learning · Optimization · Engineering Analytics**
+
+An applied AI platform for intelligent analysis and optimization of water-distribution networks, combining machine learning with hydraulic simulation and engineering workflows.
 
 **Engineering highlights**
-- Leakage-safe machine-learning pipeline
-- XGBoost single-output and multi-output regression
-- Automated hyperparameter optimization
-- Particle Swarm Optimization for PRV control
-- WNTR / EPANET hydraulic simulation
-- Model persistence and reusable inference workflows
-- Reproducible experiments with fixed random seeds
-- End-to-end smoke testing
-- Interactive desktop application and analytical visualization
 
-**Stack:** `Python` · `XGBoost` · `Scikit-learn` · `PSO` · `WNTR` · `EPANET` · `Pandas`
+- XGBoost-based predictive modeling
+- Single-output and multi-output regression workflows
+- Hydraulic simulation with WNTR / EPANET
+- Pressure and demand analysis
+- PRV analysis and optimization
+- Particle Swarm Optimization
+- Structured data-processing and inference workflows
+- Engineering-oriented visualization
+- Interactive desktop application
+
+**Core stack**
+
+`Python` · `XGBoost` · `Scikit-learn` · `Pandas` · `WNTR` · `EPANET` · `Optimization`
 
 [View Repository →](https://github.com/mahmmooudian/water-network-ai-analyzer)
 
 ---
 
-### 🩻 Med-AGCNet
+### Med-AGCNet
+
 **Deep Learning · Medical Imaging · Computer Vision · Explainable AI**
 
-A research-oriented deep learning architecture for medical image classification based on **Adaptive Global Context learning**, designed to combine local features, large receptive-field information, and global contextual representations.
+A research-oriented deep learning architecture for medical image classification based on **Adaptive Global Context learning**.
 
-**Research highlights**
-- Custom PyTorch deep-learning architecture
-- Adaptive Global Context Block design
+The architecture combines local feature extraction, large receptive-field information, and global contextual representations through adaptive feature fusion.
+
+**Research & engineering highlights**
+
+- Custom PyTorch architecture
+- Adaptive Global Context Blocks
 - Multi-branch contextual feature learning
 - Baseline model comparison
-- Ablation studies
+- Ablation experiments
 - Grad-CAM explainability
 - Classification-threshold optimization
-- Training, validation, and testing workflow
-- Reproducible experimental pipeline
+- Reproducible training and evaluation
+- Medical image classification on PneumoniaMNIST
 
-**Stack:** `Python` · `PyTorch` · `Deep Learning` · `Computer Vision` · `Grad-CAM`
+**Best experimental result**
+
+`Test Accuracy: 92.47%` · `ROC-AUC: 0.9758`
+
+**Core stack**
+
+`Python` · `PyTorch` · `Deep Learning` · `Computer Vision` · `Grad-CAM`
 
 [View Repository →](https://github.com/mahmmooudian/Med-AGCNet)
 
 ---
 
-### 📊 AI Model Performance Dashboard
-**AI Monitoring · Model Evaluation · Power BI · Operational Analytics**
+### AI Model Performance Dashboard
 
-An interactive analytics solution for monitoring machine-learning model performance and translating model metrics into clear operational insights.
+**Model Monitoring · ML Evaluation · Power BI · Operational Analytics**
+
+An analytical dashboard for monitoring machine-learning model performance and translating technical model metrics into clear operational insights.
 
 **Analytics highlights**
+
 - Accuracy, Precision, Recall, and F1 monitoring
 - Confusion-matrix analysis
 - Model-to-model comparison
@@ -79,149 +101,101 @@ An interactive analytics solution for monitoring machine-learning model performa
 - Data-drift indicators
 - Operational alert monitoring
 - Executive KPI reporting
-- AI model health visualization
+- Model health visualization
 
-**Stack:** `Power BI` · `DAX` · `Power Query` · `ML Metrics` · `Data Visualization`
+**Core stack**
+
+`Power BI` · `DAX` · `Power Query` · `ML Metrics` · `Data Visualization`
 
 [View Repository →](https://github.com/mahmmooudian/ai-model-performance-dashboard)
 
 ---
 
-## Technical Stack
+## Core Technical Stack
 
-### AI & Machine Learning
-`PyTorch` · `Scikit-learn` · `XGBoost` · `Deep Learning` · `Machine Learning` · `Model Evaluation`
+### Languages
+
+`Python` · `SQL` · `C#`
+
+### Machine Learning & Deep Learning
+
+`PyTorch` · `Scikit-learn` · `XGBoost` · `CNNs` · `LSTMs`
 
 ### Computer Vision
-`OpenCV` · `MediaPipe` · `CNNs` · `Grad-CAM` · `Image Classification` · `Pose Estimation`
 
-### Data & Scientific Computing
-`Pandas` · `NumPy` · `SciPy` · `Matplotlib` · `Plotly`
+`OpenCV` · `MediaPipe` · `Grad-CAM` · `Image Classification` · `Pose Estimation`
 
-### AI / ML Engineering
-`Python` · `Git` · `GitHub` · `Modular ML Development` · `Reproducible Experiments` · `Inference Workflows`
+### Scientific Computing & Data
 
-### Optimization & Engineering AI
-`Particle Swarm Optimization` · `WNTR` · `EPANET` · `Industrial AI` · `Predictive Modeling`
+`NumPy` · `Pandas` · `SciPy` · `Matplotlib` · `Plotly`
 
-### Data & Analytics
-`SQL` · `Power BI` · `Data Analysis` · `Data Visualization`
+### Engineering & Optimization
 
-### Additional Development
-`C#` · `Jupyter`
----
+`Git` · `GitHub` · `Jupyter` · `WNTR` · `EPANET` · `Particle Swarm Optimization`
 
-## Engineering Philosophy
+### Analytics
 
-I approach AI projects as **engineering systems**, not isolated models.
-
-A strong AI solution should combine:
-
-**Clear problem definition**  
-→ **Reliable data pipeline**  
-→ **Appropriate model architecture**  
-→ **Rigorous evaluation**  
-→ **Explainability and monitoring**  
-→ **Clean software structure**  
-→ **Deployment-oriented design**
-
-I aim to build AI systems that are not only accurate, but also **understandable, maintainable, reproducible, and useful in real-world environments**.
+`Power BI` · `Power Query` · `DAX` · `Data Visualization`
 
 ---
 
-## Areas of Focus
+## Engineering Approach
 
-I am actively developing my work around:
+I treat machine-learning projects as **engineering systems rather than isolated models**.
 
-- Applied AI Systems
-- AI Application Development
-- Deep Learning
+My work emphasizes:
+
+- **Reproducibility** — controlled experiments and repeatable evaluation
+- **Modularity** — clear separation between data, models, training, evaluation, and inference
+- **Rigorous evaluation** — metrics beyond simple accuracy
+- **Explainability** — understanding why a model makes a prediction
+- **Optimization** — improving both model and system behavior
+- **Real-world integration** — connecting AI models with practical engineering workflows
+
+The objective is not simply to build models that perform well, but to build systems that are **reliable, understandable, maintainable, and useful**.
+
+---
+
+## Areas of Expertise
+
+`Applied AI`  
+`Machine Learning`  
+`Deep Learning`  
+`Computer Vision`  
+`Explainable AI`  
+`Industrial AI`  
+`Predictive Modeling`  
+`Model Evaluation`  
+`Optimization`  
+`Engineering Analytics`
+
+---
+
+## Open to Collaboration
+
+I am interested in opportunities and collaborations involving:
+
+- AI Engineering
+- Applied Machine Learning
 - Computer Vision
-- Intelligent Infrastructure
+- Deep Learning
 - Industrial AI
-- Explainable AI
-- ML Engineering
-- Model Evaluation & Monitoring
-- AI Automation
-- AI Agents
-- Retrieval-Augmented Generation
-- Production-oriented AI Architecture
+- AI Research & Development
+- Intelligent Engineering Systems
+- Open-source AI projects
 
 ---
 
-## What I Build
+## Connect
 
-My projects typically sit at the intersection of:
-
-**Artificial Intelligence**
-
-+
-
-**Software Engineering**
-
-+
-
-**Data & Analytics**
-
-+
-
-**Real-World Engineering Problems**
-
-I am especially interested in projects where AI needs to move beyond experimentation and become part of a usable system, analytical platform, intelligent application, or engineering workflow.
+[LinkedIn](https://www.linkedin.com/in/amirmohmmadmahmoudian) ·
+[Portfolio](https://sites.google.com/view/mahmoudian) ·
+[Hugging Face](https://huggingface.co/Mahmmooudian)
 
 ---
 
-## Currently Expanding Toward
+<div align="center">
 
-My ongoing engineering direction includes:
+### Building AI systems that connect strong models with strong engineering.
 
-- AI agents and tool-enabled AI systems
-- Retrieval-Augmented Generation
-- LLM application development
-- FastAPI-based AI services
-- Containerized AI applications
-- Automated testing
-- CI/CD for AI projects
-- Model monitoring and observability
-- Experiment tracking
-- Production ML workflows
-
-The goal is to build complete AI systems covering the path from **model development to deployment and operation**.
-
----
-
-## Open To
-
-I am interested in:
-
-- AI Engineering opportunities
-- AI Developer roles
-- Applied AI projects
-- Machine Learning Engineering
-- Computer Vision projects
-- AI research collaboration
-- Industrial AI applications
-- Open-source collaboration
-- Intelligent software systems
-
----
-
-## Connect With Me
-
-**LinkedIn**  
-[linkedin.com/in/amirmohmmadmahmoudian](https://www.linkedin.com/in/amirmohmmadmahmoudian)
-
-**Portfolio**  
-[sites.google.com/view/mahmoudian](https://sites.google.com/view/mahmoudian)
-
-**Hugging Face**  
-[huggingface.co/Mahmmooudian](https://huggingface.co/Mahmmooudian)
-
-**GitHub**  
-[github.com/mahmmooudian](https://github.com/mahmmooudian)
-
----
-
-### Building intelligent systems from models to real-world applications.
-
-> **AI is most valuable when strong models meet strong engineering.**
+</div>
